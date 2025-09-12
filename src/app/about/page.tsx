@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import { Cog, Users, Target, Heart } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { placeholderImages } from '@/lib/placeholder-images.json';
+import placeholderImages from '@/lib/placeholder-images.json';
 
 const teamMembers = [
   {
