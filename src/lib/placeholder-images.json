@@ -1,0 +1,22 @@
+{
+    "team": {
+        "rohan": {
+            "src": "https://picsum.photos/seed/rohan/400/400",
+            "width": 400,
+            "height": 400,
+            "hint": "man portrait"
+        },
+        "priya": {
+            "src": "https://picsum.photos/seed/priya/400/400",
+            "width": 400,
+            "height": 400,
+            "hint": "woman portrait"
+        },
+        "vikram": {
+            "src": "https://picsum.photos/seed/vikram/400/400",
+            "width": 400,
+            "height": 400,
+            "hint": "man portrait professional"
+        }
+    }
+}
